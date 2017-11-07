@@ -1,0 +1,7 @@
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.Tests.dll
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.Tests.pdb
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.dll
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.pdb
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.csprojResolveAssemblyReference.cache
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.dll
+c:\users\urko\documents\visual studio 2012\Projects\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.pdb
